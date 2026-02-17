@@ -1,6 +1,6 @@
 # cursor <=> codespace
 
-1. 브라우저로 GitHub Codespaces를 열고 터미널에 다음과 같은 명령을 수행합니다.
+1. 브라우저로 GitHub Codespaces를 열고 터미널에 다음과 같은 명령을 수행합니다. (서버가 중단된 경우도 마찬가지로 같은 명령을 수행합니다.)
 
 ```bash
 # 터널 실행 (로그인 필요)
